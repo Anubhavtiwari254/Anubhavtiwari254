@@ -73,16 +73,21 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anubhavtiwari254&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavtiwari254&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Anubhavtiwari254&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Anubhavtiwari254&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Anubhavtiwari254&theme=shades-of-purple&hide_border=false" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anubhavtiwari254&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
 
 ---
 
